@@ -2,3 +2,7 @@ This is Java Training
 java
 git
 hub
+hello
+hii
+good mornimg
+welcome ti to the java class
